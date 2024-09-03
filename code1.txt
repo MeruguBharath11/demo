@@ -1,0 +1,8 @@
+iting objects: 100% (3/3), 444 bytes | 444.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/MeruguBharath11/demo.git
+   91dcb5c..b7ba066  main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\cse\Desktop\git> git add .
+PS C:\Users\cse\Desktop\git> git commit -m "addingh xt"
+[main 6743b58] addingh xt
